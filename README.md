@@ -12,6 +12,7 @@ structure:
 - flask_app.py
 - ocr.py
 - uwconnect.json (credential file)
+- uploads (folder)
 
 Frontend: php
 please use a web hosting plan to host it
