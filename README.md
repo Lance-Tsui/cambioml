@@ -31,8 +31,4 @@ after you enabled google vision api key, the credential is under project setting
 
 Mongodb: potential addon
 
-will use mongodb atlas for db hosting
-
-mongodb provides string for both python and php
-
-will use python to insert records to mongodb
+will use mongodb atlas for db hosting, and use python to connect mongodb
