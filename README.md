@@ -1,8 +1,13 @@
 Frontend: python
+
 used pythonanywhere.com to deploy
+
 python version: 3.10
+
 framework: flask
+
 library requirements: flask, ocr, google.cloud
+
 structure:
 - flask_app.py
 - ocr.py
