@@ -1,4 +1,4 @@
-frontend: python
+Frontend: python
 used pythonanywhere.com to deploy
 python version: 3.10
 framework: flask
@@ -8,7 +8,7 @@ structure:
 - ocr.py
 - uwconnect.json (credential file)
 
-backend: php
+Backend: php
 please use a web hosting plan to host it
 structure:
 - index.php
@@ -17,11 +17,9 @@ structure:
 - style.css
 - uploads (folder)
 
-credential: uwconnect.json
+Credential: uwconnect.json
 
 after you enabled google vision api key, the credential is under project settings -> service accounts (it's not OAuth2.0)
-
-Steps:
 
 - Go to Google Cloud Console
 
@@ -31,7 +29,7 @@ Steps:
 
 - Create a key and download the json file, and put it into the python folder
 
-potential development: mongodb
+Mongodb: potential addon
 
 will use mongodb atlas for db hosting
 
