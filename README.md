@@ -21,13 +21,15 @@ credential: uwconnect.json
 
 after you enabled google vision api key, the credential is under project settings -> service accounts (it's not OAuth2.0)
 
-Go to Google Cloud Console
+Steps:
 
-Enable Google Cloud Vision API
+- Go to Google Cloud Console
 
-Go to IAM and Admin -> Service Accounts
+- Enable Google Cloud Vision API
 
-Create a key and download the json file, and put it into the python folder
+- Go to IAM and Admin -> Service Accounts
+
+- Create a key and download the json file, and put it into the python folder
 
 potential development: mongodb
 
