@@ -1,4 +1,4 @@
-Frontend: python
+Backend: python
 
 used pythonanywhere.com to deploy
 
@@ -13,7 +13,7 @@ structure:
 - ocr.py
 - uwconnect.json (credential file)
 
-Backend: php
+Frontend: php
 please use a web hosting plan to host it
 structure:
 - index.php
